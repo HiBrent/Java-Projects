@@ -1,6 +1,3 @@
-//************************************************************************
-// Author: D. S. Malik
-//
 //Program Convert: This program convert measurements 
 // in feet and inches into centimeters using the formula
 // that 1 inch is queal to 2.54 centimeters
